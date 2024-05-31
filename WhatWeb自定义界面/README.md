@@ -13,8 +13,9 @@ WhatWeb可以是隐蔽的和快速的，也可以是彻底的但缓慢的。What
 - 打开快捷工具，右上角点击导入，找到"WhatWeb自定义界面/WhatWeb-识别网站扫描器.txt"进行导入
   ![import.png](image/import.png)
 - 配置工具路径,在"自定义界面"分组找到"WhatWeb-识别网站扫描器"，点击编辑.
-- 选择ruby环境（该工具需要ruby运行）,ruby初始化安装WhatWeb见官方文档：[https://morningstarsecurity.com/research/whatweb](https://morningstarsecurity.com/research/whatweb)
+- 选择系统内置ruby环境（该工具需要ruby运行，不存在则安装ruby）,ruby初始化安装WhatWeb见官方文档：[https://morningstarsecurity.com/research/whatweb](https://morningstarsecurity.com/research/whatweb)
 - 选择WhatWeb实际路径 通过[https://github.com/urbanadventurer/WhatWeb/releases](https://github.com/urbanadventurer/WhatWeb/releases)下载工具
+  备注（在ruby安装目录下找到bundle,在WhatWeb实际路径执行: ruby\bin\bundle install）
  ![update.png](image/update.png)
 - 打开工具，选择模板，配置参数，启动
   ![switch.png](image/switch.png)
