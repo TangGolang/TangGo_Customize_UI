@@ -29,8 +29,6 @@ Dirsearch 的主要特点包括：
  ![update.png](image/update.png)
 - 打开工具，选择模板，配置参数，启动<br>
   ![switch.png](image/switch.png)
-- 备注：（工具运行开启安静模式，目前暂不支持不开启） <br>
-  ![quiet.png](image/quiet.png)
 # 3. 运行截图
 
 - 单个URL扫描<br>
