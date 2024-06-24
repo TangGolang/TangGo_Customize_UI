@@ -8,6 +8,8 @@ WhatWeb可以是隐蔽的和快速的，也可以是彻底的但缓慢的。What
 大多数 WhatWeb 插件都是彻底的，可以识别从微妙到明显的一系列线索。例如，大多数 WordPress 网站都可以通过元 HTML 标签来识别，例如“”，但少数 WordPress 网站删除了这个识别标签，但这并不能阻止 WhatWeb。WordPress WhatWeb 插件有超过 15 项测试，包括检查网站图标、默认安装文件、登录页面以及检查相对链接中的“/wp-content/”。
 - 官网：[https://github.com/urbanadventurer/WhatWeb](https://github.com/urbanadventurer/WhatWeb)
 - 官方文档：[https://morningstarsecurity.com/research/whatweb](https://morningstarsecurity.com/research/whatweb)
+- 工具版本：0.5.2
+- 需要的Ruby环境版本：3.2.2+
 - 支持的TangGo版本：v1.4.8+
 # 2. 使用方法
 - 打开快捷工具，右上角点击导入，找到"WhatWeb自定义界面/WhatWeb-识别网站扫描器.txt"进行导入

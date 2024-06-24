@@ -14,6 +14,7 @@ Dirsearch 的主要特点包括：
 - 结果输出：完成扫描后，Dirsearch 会生成详细的扫描报告（纯文本，JSON），展示已发现的隐藏目录和文件。
 
 - 官网：[https://github.com/maurosoria/dirsearch](https://github.com/maurosoria/dirsearch)
+- 工具版本：v0.4.3.post1
 - 支持的TangGo版本：v1.4.8+
 # 2. 使用方法
 - 打开快捷工具，右上角点击导入，找到"Dirsearch自定义界面/Dirsearch-高级Web路径暴力破解器.txt"进行导入<br>
