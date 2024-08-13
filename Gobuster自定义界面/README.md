@@ -1,7 +1,7 @@
 # Gobuster
 
 # 1. 简介
-Gobuster 一种用于暴力破解的工具,用Go编写的目录/文件、DNS 和 VHost 破解工具
+Gobuster是一个用Go编写的工具，用于暴力破解网站的URI（目录和文件）、DNS子域、目标Web服务器上的虚拟主机名，以及扫描开放的Amazon S3和Google Cloud存储桶、TFTP服务器。
 - 网站中的 URI（目录和文件）。
 - DNS 子域（支持通配符）。
 - 目标 Web 服务器上的虚拟主机名。
