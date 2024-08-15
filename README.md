@@ -1,5 +1,10 @@
 # TangGo_Customize_UI
 
+最新提示：TangGo 1.5.x版本已上线“界面资源库”模块，您可以直接在界面资源库中一键安装。          
+
+![image](https://github.com/user-attachments/assets/62679beb-9e83-4e7d-a545-286936af0104)
+
+
 本项目分享的是一些常用命令行或脚本工具的可视化界面。TangGo支持自定义界面工具模块，能够将命令行工具、python、javascript、ruby等脚本快速定制和设计成可视化界面工具，让各工具使用更加简单友好和方便。</br>
 
 特别说明：</br>
