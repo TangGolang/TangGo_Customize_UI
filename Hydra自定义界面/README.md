@@ -1,9 +1,8 @@
 # Hydra
 
 # 1. 简介
-Hydra 是一个并行登录破解程序，支持多种协议 攻击。它非常快速和灵活，并且很容易添加新模块。
-该工具使研究人员和安全顾问能够 展示未经授权访问系统是多么容易 远程。   
-它支持：Cisco AAA、Cisco auth、Cisco enable、CVS、FTP、HTTP（S）-FORM-GET、 HTTP（S）-FORM-POST、HTTP（S）-GET、HTTP（S）-HEAD、HTTP-Proxy、ICQ、IMAP、IRC、 LDAP、MS-SQL、MySQL、NNTP、Oracle 侦听器、Oracle SID、PC-Anywhere、PC-NFS、 POP3、PostgreSQL、RDP、Rexec、Rlogin、Rsh、SIP、SMB（NT）、SMTP、SMTP 枚举、 SNMP v1+v2+v3、SOCKS5、SSH（v1 和 v2）、SSHKEY、Subversion、Teamspeak （TS2）、 Telnet、VMware-Auth、VNC 和 XMPP。
+Hydra 是一个支持多种协议的并行的登录暴力破解工具，它非常快速且灵活，且易于添加新模块。它支持以下协议：Cisco AAA、Cisco auth、Cisco enable、CVS、FTP、HTTP(S)-FORM-GET、HTTP(S)-FORM-POST、HTTP(S)-GET、HTTP(S)-HEAD、HTTP-Proxy、ICQ、IMAP、IRC、LDAP、MS-SQL、MySQL、NNTP、Oracle Listener、Oracle SID、PC-Anywhere、PC-NFS、POP3、PostgreSQL、RDP、Rexec、Rlogin、Rsh、SIP、SMB(NT)、SMTP、SMTP Enum、SNMP v1+v2+v3、SOCKS5、SSH（v1 和 v2）、SSHKEY、Subversion、Teamspeak（TS2）、Telnet、VMware-Auth、VNC 和 XMPP。
+
 - 官网：[https://www.kali.org/tools/hydra/#hydra](https://www.kali.org/tools/hydra/#hydra)
 - 工具版本：v9.2+
 - 支持的TangGo版本：v1.4.8+
