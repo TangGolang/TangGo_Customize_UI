@@ -1,7 +1,7 @@
 # X-Crack
 
 # 1. 简介
-"X-Crack" 是一款密码破解工具，通常用于测试密码强度或执行安全审计。它支持多种密码破解方式，包括字典攻击、暴力破解和混合攻击
+X-Crack是一款弱口令扫描破解工具，通常用于测试密码强度或执行安全审计。它支持多种密码破解方式，包括字典攻击、暴力破解和混合攻击，支持FTP/SSH/SNMP/MSSQL/MYSQL/PostGreSQL/REDIS/ElasticSearch/MONGODB等协议。
 - 官网：[https://github.com/netxfly/x-crack](https://github.com/netxfly/x-crack) 
 - 工具版本：20171227
 - 支持的TangGo版本：v1.4.8+
