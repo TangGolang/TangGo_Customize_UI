@@ -21,20 +21,19 @@ Dirsearch 的主要特点包括：
   ![import.png](image/import.png)
 - 安装python内置环境，并双击打开<br>
   ![python.png](image/python1.png)
-- 安装python的pip<br>
-  ![pip_az.png](image/pip_az.png)
-- 在python安装目录找到python312._pth 这个文件，若存在 #import site 则删掉前面的 # 即可<br>
-  ![python2.png](image/python2.png)
-- 在python安装目录下运行 Scripts\pip.exe install dirsearch 得到dirsearch安装路径：Scripts\dirsearch.exe<br>
 - 配置工具路径,在"自定义界面"分组找到"Dirsearch-高级Web路径暴力破解器"，点击编辑,修改工具路径为上面得到的安装路径：Scripts\dirsearch.exe<br>
  ![update.png](image/update.png)
 - 打开工具，选择模板，配置参数，启动<br>
   ![switch.png](image/switch.png)
 # 3. 运行截图
-
 - 单个URL扫描<br>
   ![one_scan.png](image/one_scan.png)
 - 递归地扫描指定的子目录<br>
   ![read.png](image/dsub.png)
 - 深度递归扫描忽略大小写并包含重定向历史<br>
   ![read.png](image/sdlis.png)
+# 4. 如果报如下错误：
+“DeprecationWarning: pkg_resources is deprecated as an API”，请在工具目录下的requirements.txt尾部下添加：
+setuptools==67.6.1，再界面启动执行工具。如果你熟悉python，也可以手工执行如下操作：
+1、先卸载setuptools：pip uninstall setuptools
+2、再安装67.6.1版本：pip install setuptools==67.6.1 -i https://pypi.tuna.tsinghua.edu.cn/simple
