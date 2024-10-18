@@ -15,16 +15,10 @@
 - window下需安装下面步骤   
   1. 安装python内置环境，并双击打开   
     ![python.png](image/python1.png)
-  2. 安装python的pip   
-    ![pip_az.png](image/pip_az.png)
-  3. 在python安装目录找到python312._pth 这个文件，若存在 #import site 则删掉前面的 # 即可   
-    ![python2.png](image/python2.png)
-  4. 下载最新版本，解压后将文件夹移动到python安装目录下(若不放则需要在python代码中添加 import sys;import os;sys.path.append(os.path.dirname(os.path.abspath(sys.argv[0]))); 设置工作目录,否则会报错)   
-     打开解压|AppInfoScanner实际文件夹，执行 内置pip路径/pip.exe install -r requirements.txt 安装依赖（pip是TangGo安装的环境，如果是系统内置 则直接执行 pip install -r requirements.txt）   
-     ![p_install1.png](image/p_install1.png)
+  2. 下载最新版本，解压
 - unix下 使用自带的python和java   
-  1. 打开下载最新版本文件，执行pip install -r requirements.txt 安装依赖   
-  2. 修改AppInfoScanner-信息收集扫描工具 编辑环境和实际运行路径，并保存。运行环境需配置内置的python环境   
+   打开下载最新版本文件，执行pip install -r requirements.txt 安装依赖   
+- 修改AppInfoScanner-信息收集扫描工具 编辑环境和实际运行路径，并保存。运行环境需配置内置的python环境   
      ![img3.png](image/img3.png)
 
 - 修改AppInfoScanner-信息收集扫描工具 编辑环境和实际运行路径，并保存      
