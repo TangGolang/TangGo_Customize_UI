@@ -15,7 +15,7 @@
 - window下需安装下面步骤   
   1. 安装python内置环境，并双击打开   
     ![python.png](image/python1.png)
-  2. 下载最新版本，解压
+  2. 下载AppInfoScanner最新版本,地址:[https://github.com/kelvinBen/AppInfoScanner/releases](https://github.com/kelvinBen/AppInfoScanner/releases)，解压
 - unix下 使用自带的python和java   
    打开下载最新版本文件，执行pip install -r requirements.txt 安装依赖   
 - 修改AppInfoScanner-信息收集扫描工具 编辑环境和实际运行路径，并保存。运行环境需配置内置的python环境   
