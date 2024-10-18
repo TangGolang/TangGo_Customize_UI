@@ -10,7 +10,7 @@ SSRFMap 是一个用于利用服务器端请求伪造（SSRF）漏洞的工具�
 - 安装界面：如果您是通过界面资源库进行安装的，免去此步骤。如果是本github下载安装，请在右上角点击导入，下载"SSRFmap自定义界面/SSRFmap.txt"进行导入，如下图所示： 
   ![import.png](images/import.png)
 
-- 安装python内置环境，并双击打开<br>
+- 安装python3的内置环境<br>
   ![python.png](images/python.png)
   
 - 下载工具：在SSRFmap的官方Github上[https://github.com/swisskyrepo/SSRFmap](https://github.com/swisskyrepo/SSRFmap)下载工具，并解压缩到某个文件夹（建议路径必要包含空格和中文字符，虽然我们已经做了处理，但是不确定某些工具还是存在不兼容情况）
