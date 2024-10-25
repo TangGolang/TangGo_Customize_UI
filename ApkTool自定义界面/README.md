@@ -1,4 +1,4 @@
-# HashCat
+# Apktool
 
 # 1. 简介
 Apktool是一款用于逆向工程Android APK文件的工具。它可以解包、重新打包、编译、反编译APK文件，从而帮助开发者分析APK内部文件结构、修改资源等。
