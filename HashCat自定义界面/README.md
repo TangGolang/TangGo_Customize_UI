@@ -10,7 +10,7 @@ Hashcat是一款高性能的密码破解工具，广泛用于密码恢复、密�
 - 安装界面：如果您是通过界面资源库进行安装的，免去此步骤。如果是本github下载安装，请在右上角点击导入，下载"HashCat自定义界面/HashCat.txt"进行导入，如下图所示：
   ![import.png](images/import.png)
 
-- 下载工具：在Hashcat的官方Github上[https://github.com/hashcat/hashcat/releases](https://github.com/hashcat/hashcat/releases)下载工具，并解压缩到某个文件夹（建议路径必要包含空格和中文字符，虽然我们已经做了处理，但是不确定某些工具还是存在不兼容情况）
+- 下载工具：在Hashcat的官方Github上[https://github.com/hashcat/hashcat/releases](https://github.com/hashcat/hashcat/releases)下载工具，并解压缩到某个文件夹（建议路径不要包含空格和中文字符，虽然我们已经做了处理，但是不确定某些工具还是存在不兼容情况）
 
 - 配置工具路径：通过搜索"HashCat"或在全部分组的自定义界面工具类中找到"HashCat"，双击或者点击右下角的编辑，修改HashCat的工具路径为您下载工具的存放路径：
   ![x1.png](images/x.png)
