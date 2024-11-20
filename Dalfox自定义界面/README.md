@@ -10,7 +10,7 @@ Dalfox是一款Go语言开发的开源的XSS漏洞扫描和利用工具，它同
 - 安装界面：如果您是通过界面资源库进行安装的，免去此步骤。如果是本github下载安装，请在右上角点击导入，下载"Dalfox自定义界面/Dalfox.txt"进行导入，如下图所示：
   ![import.png](images/import.png)
 
-- 下载工具：您可在Dalfox的官方Github上[https://github.com/hahwul/dalfox/releases](https://github.com/hahwul/dalfox/releases)下载已编译好的工具（您也可以下载源码自行编译），并解压缩到某个文件夹（建议路径必要包含空格和中文字符，虽然我们已经做了处理，但是不确定某些工具还是存在不兼容情况）
+- 下载工具：您可在Dalfox的官方Github上[https://github.com/hahwul/dalfox/releases](https://github.com/hahwul/dalfox/releases)下载已编译好的工具（您也可以下载源码自行编译），并解压缩到某个文件夹（建议路径不要包含空格和中文字符，虽然我们已经做了处理，但是不确定某些工具还是存在不兼容情况）
   - ubuntu下可以使用`sudo snap install dalfox`进行安装
   - macos可以执行`brew install dalfox`进行安装。
 - 配置工具路径：通过搜索"Dalfox"或在全部分组的自定义界面工具类中找到"Dalfox"，双击或者点击右下角的编辑，修改Dalfox的工具路径为您下载工具的存放路径：
