@@ -1,4 +1,4 @@
-# KillWxapkg
+# Dalfox
 
 # 1. 简介
 Dalfox是一款Go语言开发的开源的XSS漏洞扫描和利用工具，它同时也支持基本的SQL注入、SSTI、开方式重定向、CRLF注入等漏洞的扫描。它支持URL、文件、管道、REST API等多种扫描模式，支持Blind XSS、DOM XSS的扫描，支持Payload生成，支持详细PoC和报告输出。它可自定义的参数非常广泛，可以根据用户需求深度定制化地进行XSS检测。
