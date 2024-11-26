@@ -17,11 +17,13 @@ Dirsearch 的主要特点包括：
 - 工具版本：v0.4.3.post1
 - 支持的TangGo版本：v1.4.8+
 # 2. 使用方法
-- 打开快捷工具，右上角点击导入，找到"Dirsearch自定义界面/Dirsearch-高级Web路径暴力破解器.txt"进行导入<br>
+- 安装界面：如果您是通过界面资源库进行安装的，免去此步骤。如果是本github下载安装，请在右上角点击导入，下载"Dirsearch自定义界面/Dirsearch-高级Web路径暴力破解器.txt"进行导入<br>
   ![import.png](image/import.png)
-- 安装python内置环境，并双击打开<br>
+- 安装python内置环境，您也可以配置成您自己安装的环境<br>
   ![python.png](image/python1.png)
-- 配置工具路径,在"自定义界面"分组找到"Dirsearch-高级Web路径暴力破解器"，点击编辑,修改工具路径为上面得到的安装路径：Scripts\dirsearch.exe<br>
+- 从官网下载dirsearch工具，下载地址：https://github.com/maurosoria/dirsearch/releases
+- 下载后解压缩到一个不包含空格和中文字符的目录下
+- 配置工具路径，在"信息收集工具"分组找到"Dirsearch-高级Web路径暴力破解器"，点击编辑，修改工具路径为您下载的工具的所在路径：
  ![update.png](image/update.png)
 - 打开工具，选择模板，配置参数，启动<br>
   ![switch.png](image/switch.png)
