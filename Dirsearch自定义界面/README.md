@@ -24,7 +24,7 @@ Dirsearch 的主要特点包括：
 - 从官网下载dirsearch工具，下载地址：https://github.com/maurosoria/dirsearch/releases
 - 下载后解压缩到一个不包含空格和中文字符的目录下
 - 配置工具路径，在"信息收集工具"分组找到"Dirsearch-高级Web路径暴力破解器"，点击编辑，修改工具路径为您下载的工具的所在路径：
- ![update.png](image/update.png)
+![image](https://github.com/user-attachments/assets/6ce67db3-9f42-415e-b02f-3db92cac033e) 
 - 打开工具，选择模板，配置参数，启动<br>
   ![switch.png](image/switch.png)
 # 3. 运行截图
