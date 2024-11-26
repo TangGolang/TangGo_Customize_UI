@@ -6,10 +6,10 @@ Kscan是一款纯go开发的全方位扫描器，具备端口扫描、协议检�
 - 工具版本：v1.87
 - 支持的TangGo版本：v1.4.8+
 # 2. 使用方法
-- 打开快捷工具，右上角点击导入，找到"Kscan自定义界面/Kscan-轻量化全方位扫描器.txt"进行导入
+- 安装界面：如果您是通过界面资源库进行安装的，免去此步骤。如果是本github下载安装，请在主界面右上角点击导入，下载"Kscan自定义界面/Kscan-轻量化全方位扫描器.txt"进行导入
   ![import.png](image/import.png)
-- 配置工具路径,在"自定义界面"分组找到"Kscan-扫描器"，点击编辑.
-- 选择Kscan实际路径 通过[https://github.com/lcvvvv/kscan/releases](https://github.com/lcvvvv/kscan/releases)下载工具
+- 下载工具：请在官方Github下载工具，下载地址：[https://github.com/lcvvvv/kscan/releases](https://github.com/lcvvvv/kscan/releases)，下载后请将工具放置在一个不包含空格及中文、特殊字符的路径的目录下。
+- 配置工具路径：在"自定义界面"分组找到"Kscan-扫描器"，点击编辑，配置工具路径为您下载的工具路径。
   ![update.png](image/update.png)
 - 打开工具，选择模板，配置参数，启动
   ![switch.png](image/switch.png)
