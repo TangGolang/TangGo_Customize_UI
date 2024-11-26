@@ -8,9 +8,10 @@ NMap是一款功能强大的网络扫描器，用于网络发现和安全审计�
 - 工具版本： 7.94
 - 支持的TangGo版本：v1.4.8+
 # 2. 使用方法
-- 打开快捷工具，右上角点击导入，找到"Nmap自定义界面/Nmap-扫描器.txt"进行导入
+- 安装界面：如果您是通过界面资源库进行安装的，免去此步骤。如果是本github下载安装，请在主界面右上角点击导入，下载"Nmap自定义界面/Nmap-扫描器.txt"进行导入
 ![import.png](image/import.png)
-- 配置工具路径，在"自定义界面"分组找到"Nmap-扫描器"，点击编辑，修改nmap安装实际路径，一般为安装路径下的nmap.exe(linux|mac为nmap)
+- 下载工具：请在nmap官网下载工具，下载地址：[https://nmap.org/download.html](https://nmap.org/download.html)，根据官方文档安装和配置
+- 配置工具路径： 在"信息收集工具"或"自定义界面"分组找到"Nmap-扫描器"，点击编辑，修改nmap的路径为您的安装实际路径   
 ![update.png](image/update.png)
 - 打开工具，选择模板，配置参数，启动
 ![switch.png](image/switch.png)
