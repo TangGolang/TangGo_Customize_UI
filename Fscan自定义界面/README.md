@@ -8,6 +8,8 @@
 - 支持的TangGo版本：v1.4.8+
 # 2. 使用方法
 - 安装界面：如果您是通过界面资源库进行安装的，免去此步骤。如果是本github下载安装，请下载"Fscan自定义界/Fscan-扫描器.txt"，在主界面的右上角点击导入按钮将该文件导入，如下图所示：
+  ![image](https://github.com/user-attachments/assets/f21895d3-9afe-41a2-8631-1c813ab2f77a)
+
   ![import.png](image/import.png)
 - 下载工具：请从官方Github下载工具，下载地址：[https://github.com/shadow1ng/fscan/releases](https://github.com/shadow1ng/fscan/releases)，将下载的工具放置在一个不包含空格和中文字符的目录下
 - 配置工具路径：在"弱点扫描工具"或“自定义界面工具”分组找到"Fscan-扫描器"，点击编辑按钮，配置工具路径：
