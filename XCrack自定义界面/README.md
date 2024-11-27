@@ -7,6 +7,7 @@ X-Crack是一款弱口令扫描破解工具，通常用于测试密码强度或�
 - 支持的TangGo版本：v1.4.8+
 # 2. 使用方法
 - 安装界面：如果您是通过界面资源库进行安装的，免去此步骤。如果是本github下载安装，请下载"XCrack自定义界面/XCrack-密码破解工具.txt"，在主界面的右上角点击导入按钮将该文件导入，如下图所示：
+ ![image](https://github.com/user-attachments/assets/baa6bddb-d667-4941-a1da-57bd29901728)
 - 下载工具：请在官方Github下载工具，下载地址：[https://github.com/netxfly/x-crack/releases](https://github.com/netxfly/x-crack/releases)，下载后将工具放置在一个不包含空格、中文及特殊字符的路径下。
 - 配置工具路径：在"暴力破解工具"或“自定义界面工具”分组找到"XCrack-密码破解工具"，点击编辑，将路径修改为您的工具实际路径：
  ![update.png](image/update.png)
