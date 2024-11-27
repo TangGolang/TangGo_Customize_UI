@@ -18,6 +18,7 @@ Dirsearch 的主要特点包括：
 - 支持的TangGo版本：v1.4.8+
 # 2. 使用方法
 - 安装界面：如果您是通过界面资源库进行安装的，免去此步骤。如果是本github下载安装，请下载"Dirsearch自定义界面/Dirsearch-高级Web路径暴力破解器.txt"，在主界面的右上角点击导入按钮将该文件导入，如下图所示：
+  ![image](https://github.com/user-attachments/assets/66e198fe-6b2e-487e-9294-263750f15114)
   ![import.png](image/import.png)
 - 安装python内置环境，您也可以配置成您自己安装的环境<br>
   ![python.png](image/python1.png)
