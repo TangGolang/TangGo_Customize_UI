@@ -8,6 +8,7 @@ Nikto 是一个开源 （GPL） Web 服务器扫描程序，它对 Web 服务器
 - windows下perl环境版本：v5.3+
 - 支持的TangGo版本：v1.4.8+
 # 2. 使用方法
+- 安装界面：如果您是通过界面资源库进行安装的，免去此步骤。如果是本github下载安装，请在主界面右上角点击导入
 - windows需要下载perl运行环境和工具
   ```
   1.通过地址(https://github.com/sullo/nikto/releases)下载版本
