@@ -12,7 +12,7 @@ Gobuster是一个用Go编写的工具，用于暴力破解网站的URI（目录�
 - 工具版本：3.6
 - 支持的TangGo版本：v1.4.8+
 # 2. 使用方法
-- 安装界面：如果您是通过界面资源库进行安装的，免去此步骤。如果是本github下载安装，请在主界面右上角点击导入，下载"Gobuster自定义界面/Gobuster-暴力破解工具.txt"进行导入<br/>
+- 安装界面：如果您是通过界面资源库进行安装的，免去此步骤。如果是本github下载安装，请下载"Gobuster自定义界面/Gobuster-暴力破解工具.txt"，在主界面的右上角点击导入按钮将该文件导入，如下图所示：
   ![import.png](image/import.png)
 - 下载工具：请在官方Github下载工具，下载地址：[https://github.com/OJ/gobuster/releases](https://github.com/OJ/gobuster/releases)，下载后请将工具放在一个不包含空格和中文字符的目录下
 - 配置工具路径：在"暴力破解工具"分组或"自定义界面"分组找到"Gobuster-暴力破解工具"，点击编辑，配置路径为您下载的工具的路径：
