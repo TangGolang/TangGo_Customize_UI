@@ -8,20 +8,15 @@ Nikto 是一个开源 （GPL） Web 服务器扫描程序，它对 Web 服务器
 - windows下perl环境版本：v5.3+
 - 支持的TangGo版本：v1.4.8+
 # 2. 使用方法
-- 安装界面：如果您是通过界面资源库进行安装的，免去此步骤。如果是本github下载安装，请在主界面右上角点击导入
-- windows需要下载perl运行环境和工具
-  ```
-  1.通过地址(https://github.com/sullo/nikto/releases)下载版本
-  2.通过官网(https://strawberryperl.com/)安装perl运行环境 v5.38.2
-  3.运行生成命令示例："D:\Strawberry\perl\bin\perl.exe"  "E:\nikto\program\nikto.pl" -h 127.0.0.1
-  ```
-- Linux和Mac 通过apt install nikto 或者 yum install nikto 进行安装即可，详情请查看文档：[https://github.com/sullo/nikto/wiki](https://github.com/sullo/nikto/wiki)  
-- 打开快捷工具，右上角点击导入，找到"NiktoWeb自定义界面/Nikto-Web服务器扫描仪.txt"进行导入    
+- 安装界面：如果您是通过界面资源库进行安装的，免去此步骤。如果是本github下载安装，请下载"NiktoWeb自定义界面/Nikto-Web服务器扫描仪.txt"，在主界面的右上角点击导入按钮将该文件导入。
   ![d1.png](image/d1.png) 
   ![d2.png](image/d2.png) 
-- 配置工具路径,在"自定义界面"分组找到"Nikto-Web服务器扫描仪"，点击编辑.   
+- 配置运行环境：
+  - windows需要下载和安装perl运行环境，通过官网(https://strawberryperl.com/)下载和安装perl运行环境，版本为v5.38.2
+  - Linux和MacOS可以通过apt install nikto 或者 yum install nikto 进行安装，详情请查看文档：[https://github.com/sullo/nikto/wiki](https://github.com/sullo/nikto/wiki)  
+- 下载工具：请在官网下载工具，下载地址：[https://github.com/sullo/nikto/releases](https://github.com/sullo/nikto/releases)
+- 配置工具路径：在"自定义界面工具"分组找到"Nikto-Web服务器扫描仪"，点击编辑，将工具的目录修改为您的实际的工具所在目录（Linux和Mac 一般为: /usr/bin/nikto ） 
   ![d3.png](image/d3.png)
-- 选择Nikto-Web服务器扫描仪实际路径 windows为实际下载路径，Linux和Mac 一般为: /usr/bin/nikto   
   ![d4.png](image/d4.png)
 - 打开工具，选择模板，配置参数，启动   
   ![d5.png](image/d5.png)
