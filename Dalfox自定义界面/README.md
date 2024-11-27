@@ -7,7 +7,7 @@ Dalfox是一款Go语言开发的开源的XSS漏洞扫描和利用工具，它同
 - 支持的TangGo版本：v1.5.3+
 
 # 2. 使用方法
-- 安装界面：如果您是通过界面资源库进行安装的，免去此步骤。如果是本github下载安装，请在右上角点击导入，下载"Dalfox自定义界面/Dalfox.txt"进行导入，如下图所示：
+- 安装界面：如果您是通过界面资源库进行安装的，免去此步骤。如果是本github下载安装，请下载"Dalfox自定义界面/Dalfox.txt"，在主界面的右上角点击导入按钮将该文件导入，如下图所示：
   ![import.png](images/import.png)
 
 - 下载工具：您可在Dalfox的官方Github上[https://github.com/hahwul/dalfox/releases](https://github.com/hahwul/dalfox/releases)下载已编译好的工具（您也可以下载源码自行编译），并解压缩到某个文件夹（建议路径不要包含空格和中文字符，虽然我们已经做了处理，但是不确定某些工具还是存在不兼容情况）
