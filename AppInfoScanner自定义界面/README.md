@@ -10,7 +10,7 @@
 - 工具版本：v1.0.9+
 - 支持的TangGo版本：v1.4.8+
 # 2. 使用方法
-- 安装界面：如果您是通过界面资源库进行安装的，免去此步骤。如果是本github下载安装，请在右上角点击导入，下载"AppInfoScanner自定义界面/AppInfoScanner-信息收集扫描工具.txt"进行导入，如下图所示：
+- 安装界面：如果您是通过界面资源库进行安装的，免去此步骤。如果是本github下载安装，请下载"AppInfoScanner自定义界面/AppInfoScanner-信息收集扫描工具.txt"，在主界面的右上角点击导入按钮将该文件导入，如下图所示：
   ![import.png](image/import.png)
 - window下需安装下面步骤   
   1. 安装python内置环境，并双击打开   
