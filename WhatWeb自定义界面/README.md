@@ -13,6 +13,8 @@ WhatWeb可以是隐蔽的和快速的，也可以是彻底的但缓慢的。What
 - 支持的TangGo版本：v1.4.8+
 # 2. 使用方法
 - 安装界面：如果您是通过界面资源库进行安装的，免去此步骤。如果是本github下载安装，请下载"WhatWeb自定义界面/WhatWeb-识别网站扫描器.txt"，在主界面的右上角点击导入按钮将该文件导入，如下图所示：
+  ![image](https://github.com/user-attachments/assets/3de58ceb-dc61-4292-8d37-2d7da9af885e)
+
   ![import.png](image/import.png)
 - 下载工具：请在官方Github下载工具，下载地址：[https://github.com/urbanadventurer/WhatWeb/releases](https://github.com/urbanadventurer/WhatWeb/releases)，下载后将工具相关的文件放在一个不包含中文、特殊字符的目录路径下。
 - 配置运行环境：该工具需要ruby环境运行，您可以使用主框架内置的ruby环境（在服务与环境栏目一键安装），您也可以自行安装。
