@@ -7,7 +7,7 @@ Apktool是一款用于逆向工程Android APK文件的工具。它可以解包�
 - 支持的TangGo版本：v1.5.3+
 
 # 2. 使用方法
-- 安装界面：如果您是通过界面资源库进行安装的，免去此步骤。如果是本github下载安装，请在右上角点击导入，下载"Apktool自定义界面/Apktool.txt"进行导入，如下图所示：
+- 安装界面：如果您是通过界面资源库进行安装的，免去此步骤。如果是本github下载安装，请下载"Apktool自定义界面/Apktool.txt"，在主界面的右上角点击导入按钮将该文件导入，如下图所示：
   ![import.png](images/import.png)
 
 - 下载工具：在Apktool的官方Github上[https://github.com/iBotPeaches/Apktool/releases](https://github.com/iBotPeaches/Apktool/releases)下载工具，并解压缩到某个文件夹（建议路径不要包含空格和中文字符，虽然我们已经做了处理，但是不确定某些工具还是存在不兼容情况）
