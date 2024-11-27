@@ -8,6 +8,7 @@ KillWxapkg是一款Go语言开发的微信小程序逆向安全评估工具。�
 
 # 2. 使用方法
 - 安装界面：如果您是通过界面资源库进行安装的，免去此步骤。如果是本github下载安装，请下载"KillWxapkg自定义界面/KillWxapkg.txt"，在主界面的右上角点击导入按钮将该文件导入，如下图所示：
+  ![image](https://github.com/user-attachments/assets/35d865fd-de34-4236-9a30-702c517701d2)
   ![import.png](images/import.png)
 
 - 下载工具：您可在KillWxapkg的官方Github上[https://github.com/Ackites/KillWxapkg/releases](https://github.com/Ackites/KillWxapkg/releases)下载已编译好的工具（您也可以下载源码自行编译），并解压缩到某个文件夹（建议路径必要包含空格和中文字符，虽然我们已经做了处理，但是不确定某些工具还是存在不兼容情况）
